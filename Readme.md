@@ -1,1 +1,1 @@
-[GitHub Pzges](https://vovochka40in.github.io/ColorClock/)
+[GitHub Pages](https://vovochka40in.github.io/ColorClock/)
