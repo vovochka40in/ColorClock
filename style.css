@@ -10,7 +10,7 @@ body {
   color: white;
   font-weight: bold;
   font-size: 36px;
-  width: 480px;
+  width: 380px;
   height: 270px;
   text-shadow: 1px 1px 0 #202020;
 }
@@ -32,7 +32,7 @@ body {
 .current-time__clock_bg {
   position: absolute;
   top: -26px;
-  left: 58px;
+  left: 8px;
   z-index: -1;
   opacity: 0.3;
   margin-top: 26px;
@@ -48,7 +48,7 @@ body {
   color: white;
   font-weight: bold;
   font-size: 36px;
-  width: 480px;
+  width: 380px;
   height: 270px;
   text-shadow: 1px 1px 0 #202020;
 }
@@ -68,8 +68,8 @@ body {
 }
 .current-color__color-code_bg {
   position: absolute;
-  top: -25px;
-  left: 80px;
+  top: -26px;
+  left: 30px;
   z-index: -1;
   opacity: 0.3;
   margin-top: 26px;
